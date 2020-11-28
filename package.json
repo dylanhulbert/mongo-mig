@@ -1,7 +1,7 @@
 {
-  "name": "leaflix",
+  "name": "mongo-mig",
   "version": "1.0.0",
-  "description": "",
+  "description": "MongoDB mLab to Atlas migration project",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
