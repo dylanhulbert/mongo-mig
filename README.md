@@ -1,4 +1,4 @@
-## mongo-mig13
+## mongo-mig
 Heroku mLab to Atlas project
 
 ## MongoDB Migration
@@ -7,7 +7,6 @@ This project is practice moving my current MongoDB projects to Atlas from mLab. 
 ## Technologies
 * [Node.js](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
-* [Mongoose](https://mongoosejs.com/)
 * [MongoDB](https://www.mongodb.com/)
 
 ## Application
