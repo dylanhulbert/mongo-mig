@@ -10,7 +10,7 @@ This project is practice moving my current MongoDB projects to Atlas from mLab. 
 * [MongoDB](https://www.mongodb.com/)
 
 ## Application
-You can view the functioning application [running on Heroku](https://dylanhulbert-mongo-mig.herokuapp.com/).
+You can view the functioning application [running on Heroku](https://hulbert-mongo-mig.herokuapp.com/).
 
 ## Credit
 Followed [Adrienne Tacke's](https://github.com/adriennetacke) [instructions](https://developer.mongodb.com/how-to/use-atlas-on-heroku) on how to create and test a new Atlas connection.
